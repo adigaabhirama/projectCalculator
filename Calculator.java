@@ -13,7 +13,7 @@ class Calculator {
         num1 = 10;//scanner.nextDouble();
 
         System.out.print("Enter an operator for an operation ");
-        operator = +;//scanner.next().charAt(0);
+        operator = +//scanner.next().charAt(0);
 
         System.out.print("Enter the second number: ");
         num2 = 12;//scanner.nextDouble();
