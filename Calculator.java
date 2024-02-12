@@ -12,8 +12,8 @@ class Calculator {
         System.out.println("Enter the first number: ");
         num1 = 10;//scanner.nextDouble();
 
-        System.out.println("Enter an operator for an operation ");
-        operator = +//scanner.next().charAt(0);
+        // System.out.println("Enter an operator for an operation ");
+        // operator = +//scanner.next().charAt(0);
 
         System.out.println("Enter the second number: ");
         num2 = 12;//scanner.nextDouble();
