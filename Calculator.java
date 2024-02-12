@@ -10,13 +10,13 @@ class Calculator {
         char operator;
 
         System.out.print("Enter the first number: ");
-        num1 = scanner.nextDouble();
+        num1 = 10//scanner.nextDouble();
 
         System.out.print("Enter an operator for an operation ");
         operator = scanner.next().charAt(0);
 
         System.out.print("Enter the second number: ");
-        num2 = scanner.nextDouble();
+        num2 = 12//scanner.nextDouble();
 
         switch (operator) {
             case '+':
